@@ -1,2 +1,4 @@
 .vscode/
 *.class 
+target/
+**/application.properties
